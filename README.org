@@ -1,0 +1,4 @@
+* Jekyll source for a blog
+
+The source is the great, minimalistic blog
+https://github.com/mojombo/mojombo.github.io by Tom Weston.
